@@ -1,0 +1,4 @@
+Nombre: Luis Ceballos
+Empresa: Tesla
+Estado: inactivo
+luis@example.com

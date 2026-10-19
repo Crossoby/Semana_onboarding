@@ -1,0 +1,4 @@
+Nombre: Marta Diaz 
+Empresa: Nissan 
+Estado: activo
+marta@example.com

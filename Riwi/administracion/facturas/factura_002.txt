@@ -1,0 +1,4 @@
+Numero:002.
+Cliente: Luis Ceballos.
+Valor: 20000.
+Estado: pendiente.

@@ -1,0 +1,3 @@
+-Se hizo un pedido ficticio
+-Se cancelo el pedido
+-Se agrego propina a un pedido hecho exitosamente

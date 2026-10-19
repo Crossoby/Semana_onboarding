@@ -1,0 +1,5 @@
+-se cancelo el proyecto entonces se movio la app_domicilios para archivados con el comando "mv"
+-la factura 001 se pago y gracias a esto se modifico el estado a pagada 
+-ana ya no era una cliente activa entonces se cambio donde estaba almacenada
+-se vacio la carpeta de entrada
+-se elimino la carpeta de entrada 
